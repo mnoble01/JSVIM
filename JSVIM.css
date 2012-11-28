@@ -1,0 +1,16 @@
+body {
+  font-family: courier new;
+}
+
+#cursor {
+  position: absolute;
+  width: 9px;
+  height: 18px;
+  background-color: black;
+}
+
+#vimEditor-content {
+  position: absolute;
+  /*line-height: 18px;*/
+  font-size: 15px;
+}
